@@ -1,0 +1,17 @@
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\MyWebCrawler.exe.config
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\MyWebCrawler.exe
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\MyWebCrawler.pdb
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.csprojAssemblyReference.cache
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.Form1.resources
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.Properties.Resources.resources
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.csproj.GenerateResource.cache
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.csproj.CopyComplete
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.exe
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\obj\Debug\MyWebCrawler.pdb
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\Fizzler.dll
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\Svg.dll
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\Fizzler.xml
+C:\Users\dldbw\source\repos\MyWebCrawler\MyWebCrawler\bin\Debug\Svg.xml

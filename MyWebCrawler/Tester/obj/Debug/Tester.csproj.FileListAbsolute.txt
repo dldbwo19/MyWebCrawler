@@ -1,0 +1,10 @@
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\bin\Debug\Tester.exe.config
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\bin\Debug\Tester.exe
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\bin\Debug\Tester.pdb
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\obj\Debug\Tester.csprojAssemblyReference.cache
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\obj\Debug\Tester.exe
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\obj\Debug\Tester.pdb
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dldbw\source\repos\MyWebCrawler\Tester\obj\Debug\Tester.csproj.CopyComplete
